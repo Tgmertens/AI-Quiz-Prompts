@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prompt>
+    <task>Create a 20-question multiple choice quiz on misunderstood or not well-understood AI terms</task>
+    <details>
+        Audience: General professionals on LinkedIn (not AI experts).
+        Format: 20 multiple choice questions, each with 1 correct answer and 3 distractors.
+        Author Credit: Thomas Mertens.
+        Style: Clear, accessible language that encourages learning and discussion.
+    </details>
+    <thinking>
+        <point>Which AI terms are most commonly misunderstood? (e.g., machine learning, neural networks, LLM, reinforcement learning, supervised vs. unsupervised learning, bias, overfitting, hallucinations, prompt engineering).</point>
+        <point>How can each question highlight the difference between misconceptions and accurate definitions?</point>
+        <point>Should the quiz be designed to both test knowledge and spark engagement (e.g., by including fun “myth vs fact” type options)?</point>
+    </thinking>
+    <reflection>
+        <point>How will posting this quiz on LinkedIn position Thomas Mertens as both an educator and thought leader?</point>
+        <point>What impact could this quiz have on raising AI literacy among business professionals?</point>
+        <point>Could this format encourage more engagement, comments, and sharing by challenging common assumptions?</point>
+    </reflection>
+</prompt>
