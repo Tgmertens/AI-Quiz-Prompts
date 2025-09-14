@@ -1,0 +1,178 @@
+# 🧠 AI Literacy Quiz  
+*20 Questions on Misunderstood AI Terms*  
+*Authored by Thomas Mertens*  
+
+This quiz is designed to test (and improve!) your understanding of commonly misunderstood AI concepts.  
+Answer each question and then check the answer key at the bottom.  
+
+---
+
+## Questions
+
+**1. What does "machine learning" primarily mean?**  
+a) Computers learning like humans do  
+b) Writing code manually for every task  
+c) Algorithms improving from data without explicit programming ✅  
+d) Robots teaching themselves philosophy  
+
+---
+
+**2. What is a "neural network" inspired by?**  
+a) Human brain structure ✅  
+b) Internet cable networks  
+c) Electrical circuits in machines  
+d) Spider webs  
+
+---
+
+**3. What does "AI hallucination" mean in large language models?**  
+a) The AI is malfunctioning physically  
+b) AI invents information that sounds correct but isn’t ✅  
+c) AI sees images that don’t exist  
+d) AI is daydreaming  
+
+---
+
+**4. What is "overfitting" in AI models?**  
+a) Model learns training data too well, fails on new data ✅  
+b) AI makes too many predictions at once  
+c) AI trains too fast  
+d) AI stores unnecessary memory  
+
+---
+
+**5. What is "bias" in AI?**  
+a) Preference for one programming language  
+b) Unfair or skewed results from training data ✅  
+c) Mathematical error in algorithms  
+d) A shortcut to make AI faster  
+
+---
+
+**6. Which of the following is NOT an example of supervised learning?**  
+a) Spam email detection  
+b) Predicting house prices from labeled data  
+c) Image classification  
+d) Clustering customers by behavior ✅  
+
+---
+
+**7. What does "unsupervised learning" focus on?**  
+a) Learning without human oversight ✅  
+b) AI that never makes mistakes  
+c) Teaching AI with reinforcement  
+d) Manual coding of all outputs  
+
+---
+
+**8. What is "reinforcement learning" commonly compared to?**  
+a) Trial and error learning ✅  
+b) Reading a textbook  
+c) Memorizing flashcards  
+d) Random guessing  
+
+---
+
+**9. What does "LLM" stand for in AI?**  
+a) Large Language Model ✅  
+b) Long Learning Mechanism  
+c) Logical Linguistic Machine  
+d) Language Learning Module  
+
+---
+
+**10. What does "natural language processing (NLP)" deal with?**  
+a) Human speech and text ✅  
+b) Machine coding  
+c) Nature-inspired algorithms  
+d) Processing images  
+
+---
+
+**11. What is "prompt engineering"?**  
+a) Designing effective inputs to guide AI output ✅  
+b) Building AI chips  
+c) Engineering faster hardware  
+d) Debugging software  
+
+---
+
+**12. What is the purpose of a "training dataset"?**  
+a) To test the model’s performance  
+b) To teach the model patterns ✅  
+c) To store AI hardware logs  
+d) To run in production  
+
+---
+
+**13. What is a "validation dataset"?**  
+a) Used to confirm model performance ✅  
+b) Dataset with only errors  
+c) A set of rules for AI coding  
+d) Data hidden from users  
+
+---
+
+**14. What does "inference" mean in AI?**  
+a) AI making predictions from a trained model ✅  
+b) AI learning new data  
+c) AI storing data  
+d) AI translating programming code  
+
+---
+
+**15. What does "open-source AI" mean?**  
+a) AI only available in universities  
+b) AI software whose code is freely available ✅  
+c) AI that runs without electricity  
+d) AI trained without data  
+
+---
+
+**16. What is a "black box" problem in AI?**  
+a) AI hardware not functioning  
+b) AI processes that are hard to interpret ✅  
+c) AI storage system  
+d) AI that works only offline  
+
+---
+
+**17. What does "token" mean in language models?**  
+a) A cryptocurrency  
+b) A unit of text (like a word or piece of a word) ✅  
+c) A machine learning dataset  
+d) A memory chip  
+
+---
+
+**18. What is "general AI" (AGI)?**  
+a) AI that can perform any intellectual task a human can ✅  
+b) AI that only plays chess  
+c) AI for military use  
+d) AI limited to single tasks  
+
+---
+
+**19. What is "transfer learning"?**  
+a) Training a model from scratch each time  
+b) Applying knowledge from one task to another ✅  
+c) Copying data between computers  
+d) Switching programming languages  
+
+---
+
+**20. What does "hallucination mitigation" mean in AI?**  
+a) Teaching AI to sleep better  
+b) Reducing false or fabricated answers ✅  
+c) Stopping hackers from attacking AI  
+d) Making AI faster  
+
+---
+
+## ✅ Answer Key
+1-c, 2-a, 3-b, 4-a, 5-b, 6-d, 7-a, 8-a, 9-a, 10-a,  
+11-a, 12-b, 13-a, 14-a, 15-b, 16-b, 17-b, 18-a, 19-b, 20-b  
+
+---
+
+💡 *Share your score in the comments! How many did you get right?*  
